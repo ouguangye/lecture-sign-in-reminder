@@ -8,3 +8,7 @@
 
 
 如果出现问卷星的二维码， 浏览器会alert窗口提醒，并且打开相关网址
+
+## 参考资料
+- [前端实现很哇塞的浏览器端扫码功能🌟](https://segmentfault.com/a/1190000040809122)
+- [jsQR.js - 摄像头或图片中扫描二维码并识别插件](http://hoohtml.com/JavaScript/tools/2020060870.html)
